@@ -57,12 +57,11 @@ The Soko Coffee Tea Chocolate (Bandung, Indonesia) planned ingredient purchases 
 - Built for a non-technical owner, with a note to compare estimates against physical stock before buying (human-in-the-loop)
 
 Dashboard Screenshots:
-<img width="1440" height="843" alt="Screenshot 2026-10-04 at 14 11 51" src="https://github.com/user-attachments/assets/64db7a36-6c91-423f-94fb-e2fb7cc316c6" />
-<img width="1181" height="649" alt="Screenshot 2026-10-04 at 14 11 42" src="https://github.com/user-attachments/assets/b8b3f31f-3c7a-4d98-aee5-95a80ba9d7bb" />
-<img width="1175" height="570" alt="Screenshot 2026-10-04 at 14 11 35" src="https://github.com/user-attachments/assets/5e4fc1cd-656f-4cec-a9c6-f072992b4b6c" />
-<img width="1182" height="710" alt="Screenshot 2026-10-04 at 14 11 29" src="https://github.com/user-attachments/assets/f87bb950-39ad-4586-953c-6a5d036df104" />
 <img width="1440" height="847" alt="Screenshot 2026-10-04 at 14 11 20" src="https://github.com/user-attachments/assets/a1357f67-33e1-4115-a2e2-7ae9430abc6c" />
-
+<img width="1182" height="710" alt="Screenshot 2026-10-04 at 14 11 29" src="https://github.com/user-attachments/assets/f87bb950-39ad-4586-953c-6a5d036df104" />
+<img width="1175" height="570" alt="Screenshot 2026-10-04 at 14 11 35" src="https://github.com/user-attachments/assets/5e4fc1cd-656f-4cec-a9c6-f072992b4b6c" />
+<img width="1181" height="649" alt="Screenshot 2026-10-04 at 14 11 42" src="https://github.com/user-attachments/assets/b8b3f31f-3c7a-4d98-aee5-95a80ba9d7bb" />
+<img width="1440" height="843" alt="Screenshot 2026-10-04 at 14 11 51" src="https://github.com/user-attachments/assets/64db7a36-6c91-423f-94fb-e2fb7cc316c6" />
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Streamlit, Jupyter Notebook
